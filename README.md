@@ -16,6 +16,6 @@ This folder includes all that is needed to build the network:
 This folder contains the 2 products you should expect to receive from using AI to solve this problem.
 
 * Origin-Destination Distance Matrix (ODDM) named oddm.csv
-* The full network ready to be opened in Google Earth. 
+* The full network ready to be opened in Google Earth named network.kml 
 
 Dataset from https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FLL&QO_fu146_anzr=
