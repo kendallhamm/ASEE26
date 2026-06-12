@@ -9,7 +9,7 @@ This folder includes all that is needed to build the network:
 * Dataset, cleaned from the USDOT
 * Suggested AI prompts
 * Google Earth can be downloaded, or used in the browser. The browser version is https://earth.google.com/
-<img width="495" height="88" alt="image" src="https://github.com/user-attachments/assets/2cf3f095-0d5d-49ff-a1f8-b26c6aed7415" />
+
 
 
 ## 2_HelpFolder
