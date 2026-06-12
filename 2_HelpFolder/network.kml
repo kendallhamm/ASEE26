@@ -1,2874 +1,2158 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
-<name>Airport Network <=50 Miles</name>
-
-<Style id="blackLine">
-  <LineStyle>
-    <color>ff000000</color>
-    <width>5</width>
-  </LineStyle>
-</Style>
-
-
-<Placemark>
-  <name><![CDATA[Anson County]]></name>
-  <Point>
-    <coordinates>-80.08138889,35.02388889,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Asheville Regional]]></name>
-  <Point>
-    <coordinates>-82.54111111,35.435,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Douglas Municipal]]></name>
-  <Point>
-    <coordinates>-80.93583333,35.21916667,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Pine Island]]></name>
-  <Point>
-    <coordinates>-75.78861111,36.25333333,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Elizabeth]]></name>
-  <Point>
-    <coordinates>-76.17305556,36.25916667,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Northeastern Regional]]></name>
-  <Point>
-    <coordinates>-76.56972222,36.02861111,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Craven County Regional]]></name>
-  <Point>
-    <coordinates>-77.0425,35.07361111,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Fayetteville Regional/Grannis Field]]></name>
-  <Point>
-    <coordinates>-78.88027778,34.99138889,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Simmons AFB]]></name>
-  <Point>
-    <coordinates>-78.935,35.13194444,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Seymour Johnson AFB]]></name>
-  <Point>
-    <coordinates>-77.96,35.33972222,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Piedmont Triad International]]></name>
-  <Point>
-    <coordinates>-79.94277778,36.09194444,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Mackall AAF]]></name>
-  <Point>
-    <coordinates>-79.49777778,35.03638889,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Hickory Regional]]></name>
-  <Point>
-    <coordinates>-81.39,35.74055556,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Billy Mitchell]]></name>
-  <Point>
-    <coordinates>-75.62138889,35.23111111,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Horace Williams]]></name>
-  <Point>
-    <coordinates>-79.06583333,35.935,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Wilkes County]]></name>
-  <Point>
-    <coordinates>-81.09833333,36.22277778,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Wilmington International]]></name>
-  <Point>
-    <coordinates>-77.90388889,34.26694444,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Smith Reynolds]]></name>
-  <Point>
-    <coordinates>-80.22555556,36.13527778,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Kinston Regional Jetport at Stallings Field]]></name>
-  <Point>
-    <coordinates>-77.61666667,35.32666667,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Concord Regional]]></name>
-  <Point>
-    <coordinates>-80.70972222,35.38527778,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Lumberton Municipal]]></name>
-  <Point>
-    <coordinates>-79.05777778,34.61111111,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Dare County Regional]]></name>
-  <Point>
-    <coordinates>-75.69555556,35.91888889,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Beaufort/Morehead]]></name>
-  <Point>
-    <coordinates>-76.66027778,34.73416667,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Morganton Lenoir]]></name>
-  <Point>
-    <coordinates>-81.61666667,35.83333333,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Laurinburg-Maxton]]></name>
-  <Point>
-    <coordinates>-79.36611111,34.79166667,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Gastonia Municipal]]></name>
-  <Point>
-    <coordinates>-81.14972222,35.20277778,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Johnston County]]></name>
-  <Point>
-    <coordinates>-78.39027778,35.54083333,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Shelby Municipal]]></name>
-  <Point>
-    <coordinates>-81.60083333,35.25555556,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Currituck County Regional]]></name>
-  <Point>
-    <coordinates>-76.01611111,36.39888889,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Duplin County]]></name>
-  <Point>
-    <coordinates>-77.98166667,35.0,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Cherry Point MCAS]]></name>
-  <Point>
-    <coordinates>-76.88138889,34.9025,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Albert J Ellis]]></name>
-  <Point>
-    <coordinates>-77.61166667,34.83027778,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Warren Field]]></name>
-  <Point>
-    <coordinates>-77.05083333,35.56888889,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Pitt Greenville]]></name>
-  <Point>
-    <coordinates>-77.38527778,35.63333333,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Pope AFB]]></name>
-  <Point>
-    <coordinates>-79.01472222,35.17083333,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Raleigh-Durham International]]></name>
-  <Point>
-    <coordinates>-78.78194444,35.87527778,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Lincoln County]]></name>
-  <Point>
-    <coordinates>-81.16083333,35.48361111,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Rocky Mount-Wilson Regional]]></name>
-  <Point>
-    <coordinates>-77.89055556,35.85444444,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Halifax County]]></name>
-  <Point>
-    <coordinates>-77.70944444,36.43944444,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Moore County]]></name>
-  <Point>
-    <coordinates>-79.38888889,35.2375,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Rowan County]]></name>
-  <Point>
-    <coordinates>-80.52027778,35.64583333,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Statesville Municipal]]></name>
-  <Point>
-    <coordinates>-80.95527778,35.76305556,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Person County]]></name>
-  <Point>
-    <coordinates>-78.98416667,36.285,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Stanly County]]></name>
-  <Point>
-    <coordinates>-80.15083333,35.41666667,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Henderson Oxford]]></name>
-  <Point>
-    <coordinates>-78.52916667,36.36166667,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Michael J. Smith Field]]></name>
-  <Point>
-    <coordinates>-76.66055556,34.73361111,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Clinton Sampson County]]></name>
-  <Point>
-    <coordinates>-78.36555556,34.975,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Burlington Alamance Regional]]></name>
-  <Point>
-    <coordinates>-79.475,36.04861111,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Richmond County]]></name>
-  <Point>
-    <coordinates>-79.75972222,34.89138889,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Charlotte Monroe Executive]]></name>
-  <Point>
-    <coordinates>-80.62194444,35.0175,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Macon County]]></name>
-  <Point>
-    <coordinates>-83.42,35.22222222,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Raleigh Exec Jetport at Sanford Lee County]]></name>
-  <Point>
-    <coordinates>-79.10138889,35.5825,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Columbus County Municipal]]></name>
-  <Point>
-    <coordinates>-78.715,34.27277778,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Siler City Municipal]]></name>
-  <Point>
-    <coordinates>-79.50416667,35.70416667,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Tri County]]></name>
-  <Point>
-    <coordinates>-77.17083333,36.2975,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Cape Fear Regional Jetport Howie Franklin]]></name>
-  <Point>
-    <coordinates>-78.07333333,33.93083333,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Asheboro Regional]]></name>
-  <Point>
-    <coordinates>-79.89472222,35.65444444,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Hendersonville Airport]]></name>
-  <Point>
-    <coordinates>-82.43305556,35.30749999,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <name><![CDATA[Western Carolina Regional]]></name>
-  <Point>
-    <coordinates>-83.86305556,35.19527778,0</coordinates>
-  </Point>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.08138889,35.02388889,0
-      -79.49777778,35.03638889,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.08138889,35.02388889,0
-      -80.70972222,35.38527778,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.08138889,35.02388889,0
-      -79.36611111,34.79166667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.08138889,35.02388889,0
-      -79.38888889,35.2375,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.08138889,35.02388889,0
-      -80.52027778,35.64583333,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.08138889,35.02388889,0
-      -80.15083333,35.41666667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.08138889,35.02388889,0
-      -79.75972222,34.89138889,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.08138889,35.02388889,0
-      -80.62194444,35.0175,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.08138889,35.02388889,0
-      -79.89472222,35.65444444,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -82.54111111,35.435,0
-      -82.43305556,35.30749999,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.93583333,35.21916667,0
-      -81.39,35.74055556,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.93583333,35.21916667,0
-      -80.70972222,35.38527778,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.93583333,35.21916667,0
-      -81.14972222,35.20277778,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.93583333,35.21916667,0
-      -81.60083333,35.25555556,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.93583333,35.21916667,0
-      -81.16083333,35.48361111,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.93583333,35.21916667,0
-      -80.52027778,35.64583333,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.93583333,35.21916667,0
-      -80.95527778,35.76305556,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.93583333,35.21916667,0
-      -80.15083333,35.41666667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.93583333,35.21916667,0
-      -80.62194444,35.0175,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -75.78861111,36.25333333,0
-      -76.17305556,36.25916667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -75.78861111,36.25333333,0
-      -76.56972222,36.02861111,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -75.78861111,36.25333333,0
-      -75.69555556,35.91888889,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -75.78861111,36.25333333,0
-      -76.01611111,36.39888889,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -76.17305556,36.25916667,0
-      -76.56972222,36.02861111,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -76.17305556,36.25916667,0
-      -75.69555556,35.91888889,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -76.17305556,36.25916667,0
-      -76.01611111,36.39888889,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -76.56972222,36.02861111,0
-      -75.69555556,35.91888889,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -76.56972222,36.02861111,0
-      -76.01611111,36.39888889,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -76.56972222,36.02861111,0
-      -77.05083333,35.56888889,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -76.56972222,36.02861111,0
-      -77.17083333,36.2975,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.0425,35.07361111,0
-      -77.61666667,35.32666667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.0425,35.07361111,0
-      -76.66027778,34.73416667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.0425,35.07361111,0
-      -76.88138889,34.9025,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.0425,35.07361111,0
-      -77.61166667,34.83027778,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.0425,35.07361111,0
-      -77.05083333,35.56888889,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.0425,35.07361111,0
-      -77.38527778,35.63333333,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.0425,35.07361111,0
-      -76.66055556,34.73361111,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.88027778,34.99138889,0
-      -78.935,35.13194444,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.88027778,34.99138889,0
-      -79.49777778,35.03638889,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.88027778,34.99138889,0
-      -79.05777778,34.61111111,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.88027778,34.99138889,0
-      -79.36611111,34.79166667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.88027778,34.99138889,0
-      -78.39027778,35.54083333,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.88027778,34.99138889,0
-      -79.01472222,35.17083333,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.88027778,34.99138889,0
-      -79.38888889,35.2375,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.88027778,34.99138889,0
-      -78.36555556,34.975,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.88027778,34.99138889,0
-      -79.10138889,35.5825,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.935,35.13194444,0
-      -79.49777778,35.03638889,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.935,35.13194444,0
-      -79.05777778,34.61111111,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.935,35.13194444,0
-      -79.36611111,34.79166667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.935,35.13194444,0
-      -78.39027778,35.54083333,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.935,35.13194444,0
-      -79.01472222,35.17083333,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.935,35.13194444,0
-      -79.38888889,35.2375,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.935,35.13194444,0
-      -78.36555556,34.975,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.935,35.13194444,0
-      -79.75972222,34.89138889,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.935,35.13194444,0
-      -79.10138889,35.5825,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.96,35.33972222,0
-      -77.61666667,35.32666667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.96,35.33972222,0
-      -78.39027778,35.54083333,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.96,35.33972222,0
-      -77.98166667,35.0,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.96,35.33972222,0
-      -77.61166667,34.83027778,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.96,35.33972222,0
-      -77.38527778,35.63333333,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.96,35.33972222,0
-      -77.89055556,35.85444444,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.96,35.33972222,0
-      -78.36555556,34.975,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.94277778,36.09194444,0
-      -80.22555556,36.13527778,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.94277778,36.09194444,0
-      -80.52027778,35.64583333,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.94277778,36.09194444,0
-      -80.15083333,35.41666667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.94277778,36.09194444,0
-      -79.475,36.04861111,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.94277778,36.09194444,0
-      -79.50416667,35.70416667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.94277778,36.09194444,0
-      -79.89472222,35.65444444,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.49777778,35.03638889,0
-      -79.05777778,34.61111111,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.49777778,35.03638889,0
-      -79.36611111,34.79166667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.49777778,35.03638889,0
-      -79.01472222,35.17083333,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.49777778,35.03638889,0
-      -79.38888889,35.2375,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.49777778,35.03638889,0
-      -80.15083333,35.41666667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.49777778,35.03638889,0
-      -79.75972222,34.89138889,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.49777778,35.03638889,0
-      -79.10138889,35.5825,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.49777778,35.03638889,0
-      -79.50416667,35.70416667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.49777778,35.03638889,0
-      -79.89472222,35.65444444,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -81.39,35.74055556,0
-      -81.09833333,36.22277778,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -81.39,35.74055556,0
-      -80.70972222,35.38527778,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -81.39,35.74055556,0
-      -81.61666667,35.83333333,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -81.39,35.74055556,0
-      -81.14972222,35.20277778,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -81.39,35.74055556,0
-      -81.60083333,35.25555556,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -81.39,35.74055556,0
-      -81.16083333,35.48361111,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -81.39,35.74055556,0
-      -80.52027778,35.64583333,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -81.39,35.74055556,0
-      -80.95527778,35.76305556,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -75.62138889,35.23111111,0
-      -75.69555556,35.91888889,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.06583333,35.935,0
-      -78.39027778,35.54083333,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.06583333,35.935,0
-      -78.78194444,35.87527778,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.06583333,35.935,0
-      -78.98416667,36.285,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.06583333,35.935,0
-      -78.52916667,36.36166667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.06583333,35.935,0
-      -79.475,36.04861111,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.06583333,35.935,0
-      -79.10138889,35.5825,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.06583333,35.935,0
-      -79.50416667,35.70416667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -81.09833333,36.22277778,0
-      -80.22555556,36.13527778,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -81.09833333,36.22277778,0
-      -81.61666667,35.83333333,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -81.09833333,36.22277778,0
-      -80.95527778,35.76305556,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.90388889,34.26694444,0
-      -77.61166667,34.83027778,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.90388889,34.26694444,0
-      -78.715,34.27277778,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.90388889,34.26694444,0
-      -78.07333333,33.93083333,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.22555556,36.13527778,0
-      -80.52027778,35.64583333,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.22555556,36.13527778,0
-      -80.95527778,35.76305556,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.22555556,36.13527778,0
-      -80.15083333,35.41666667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.22555556,36.13527778,0
-      -79.475,36.04861111,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.22555556,36.13527778,0
-      -79.89472222,35.65444444,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.61666667,35.32666667,0
-      -78.39027778,35.54083333,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.61666667,35.32666667,0
-      -77.98166667,35.0,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.61666667,35.32666667,0
-      -77.61166667,34.83027778,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.61666667,35.32666667,0
-      -77.05083333,35.56888889,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.61666667,35.32666667,0
-      -77.38527778,35.63333333,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.61666667,35.32666667,0
-      -77.89055556,35.85444444,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.61666667,35.32666667,0
-      -78.36555556,34.975,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.70972222,35.38527778,0
-      -81.14972222,35.20277778,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.70972222,35.38527778,0
-      -81.16083333,35.48361111,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.70972222,35.38527778,0
-      -80.52027778,35.64583333,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.70972222,35.38527778,0
-      -80.95527778,35.76305556,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.70972222,35.38527778,0
-      -80.15083333,35.41666667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.70972222,35.38527778,0
-      -80.62194444,35.0175,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.70972222,35.38527778,0
-      -79.89472222,35.65444444,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.05777778,34.61111111,0
-      -79.36611111,34.79166667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.05777778,34.61111111,0
-      -79.01472222,35.17083333,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.05777778,34.61111111,0
-      -79.38888889,35.2375,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.05777778,34.61111111,0
-      -78.36555556,34.975,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.05777778,34.61111111,0
-      -79.75972222,34.89138889,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.05777778,34.61111111,0
-      -78.715,34.27277778,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -75.69555556,35.91888889,0
-      -76.01611111,36.39888889,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -76.66027778,34.73416667,0
-      -76.88138889,34.9025,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -76.66027778,34.73416667,0
-      -76.66055556,34.73361111,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -81.61666667,35.83333333,0
-      -81.60083333,35.25555556,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -81.61666667,35.83333333,0
-      -81.16083333,35.48361111,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -81.61666667,35.83333333,0
-      -80.95527778,35.76305556,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.36611111,34.79166667,0
-      -79.01472222,35.17083333,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.36611111,34.79166667,0
-      -79.38888889,35.2375,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.36611111,34.79166667,0
-      -79.75972222,34.89138889,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -81.14972222,35.20277778,0
-      -81.60083333,35.25555556,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -81.14972222,35.20277778,0
-      -81.16083333,35.48361111,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -81.14972222,35.20277778,0
-      -80.52027778,35.64583333,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -81.14972222,35.20277778,0
-      -80.95527778,35.76305556,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -81.14972222,35.20277778,0
-      -80.62194444,35.0175,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.39027778,35.54083333,0
-      -77.98166667,35.0,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.39027778,35.54083333,0
-      -79.01472222,35.17083333,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.39027778,35.54083333,0
-      -78.78194444,35.87527778,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.39027778,35.54083333,0
-      -77.89055556,35.85444444,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.39027778,35.54083333,0
-      -78.36555556,34.975,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.39027778,35.54083333,0
-      -79.10138889,35.5825,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -81.60083333,35.25555556,0
-      -81.16083333,35.48361111,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -81.60083333,35.25555556,0
-      -82.43305556,35.30749999,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.98166667,35.0,0
-      -77.61166667,34.83027778,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.98166667,35.0,0
-      -78.36555556,34.975,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -76.88138889,34.9025,0
-      -77.61166667,34.83027778,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -76.88138889,34.9025,0
-      -77.05083333,35.56888889,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -76.88138889,34.9025,0
-      -76.66055556,34.73361111,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.61166667,34.83027778,0
-      -78.36555556,34.975,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.05083333,35.56888889,0
-      -77.38527778,35.63333333,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.38527778,35.63333333,0
-      -77.89055556,35.85444444,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.38527778,35.63333333,0
-      -77.17083333,36.2975,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.01472222,35.17083333,0
-      -79.38888889,35.2375,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.01472222,35.17083333,0
-      -78.36555556,34.975,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.01472222,35.17083333,0
-      -79.75972222,34.89138889,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.01472222,35.17083333,0
-      -79.10138889,35.5825,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.01472222,35.17083333,0
-      -79.50416667,35.70416667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.78194444,35.87527778,0
-      -77.89055556,35.85444444,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.78194444,35.87527778,0
-      -78.98416667,36.285,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.78194444,35.87527778,0
-      -78.52916667,36.36166667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.78194444,35.87527778,0
-      -79.475,36.04861111,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.78194444,35.87527778,0
-      -79.10138889,35.5825,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.78194444,35.87527778,0
-      -79.50416667,35.70416667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -81.16083333,35.48361111,0
-      -80.52027778,35.64583333,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -81.16083333,35.48361111,0
-      -80.95527778,35.76305556,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -81.16083333,35.48361111,0
-      -80.62194444,35.0175,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.89055556,35.85444444,0
-      -77.70944444,36.43944444,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.89055556,35.85444444,0
-      -78.52916667,36.36166667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.70944444,36.43944444,0
-      -78.52916667,36.36166667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -77.70944444,36.43944444,0
-      -77.17083333,36.2975,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.38888889,35.2375,0
-      -80.15083333,35.41666667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.38888889,35.2375,0
-      -79.75972222,34.89138889,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.38888889,35.2375,0
-      -79.10138889,35.5825,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.38888889,35.2375,0
-      -79.50416667,35.70416667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.38888889,35.2375,0
-      -79.89472222,35.65444444,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.52027778,35.64583333,0
-      -80.95527778,35.76305556,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.52027778,35.64583333,0
-      -80.15083333,35.41666667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.52027778,35.64583333,0
-      -80.62194444,35.0175,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.52027778,35.64583333,0
-      -79.89472222,35.65444444,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.98416667,36.285,0
-      -78.52916667,36.36166667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.98416667,36.285,0
-      -79.475,36.04861111,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.98416667,36.285,0
-      -79.10138889,35.5825,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.98416667,36.285,0
-      -79.50416667,35.70416667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.15083333,35.41666667,0
-      -79.75972222,34.89138889,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.15083333,35.41666667,0
-      -80.62194444,35.0175,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.15083333,35.41666667,0
-      -79.50416667,35.70416667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -80.15083333,35.41666667,0
-      -79.89472222,35.65444444,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.475,36.04861111,0
-      -79.10138889,35.5825,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.475,36.04861111,0
-      -79.50416667,35.70416667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.475,36.04861111,0
-      -79.89472222,35.65444444,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.75972222,34.89138889,0
-      -80.62194444,35.0175,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -83.42,35.22222222,0
-      -83.86305556,35.19527778,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.10138889,35.5825,0
-      -79.50416667,35.70416667,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.10138889,35.5825,0
-      -79.89472222,35.65444444,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -78.715,34.27277778,0
-      -78.07333333,33.93083333,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
-
-<Placemark>
-  <styleUrl>#blackLine</styleUrl>
-  <LineString>
-    <tessellate>1</tessellate>
-    <coordinates>
-      -79.50416667,35.70416667,0
-      -79.89472222,35.65444444,0
-    </coordinates>
-  </LineString>
-</Placemark>
-
+	<name>Airport Network 50 Miles or Less</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1155"></atom:link>
+	<Style id="blackLine">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Anson County</name>
+		<Point>
+			<coordinates>-80.08138889,35.02388889,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Asheville Regional</name>
+		<Point>
+			<coordinates>-82.54111111,35.435,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Douglas Municipal</name>
+		<Point>
+			<coordinates>-80.93583332999999,35.21916667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Pine Island</name>
+		<Point>
+			<coordinates>-75.78861111000001,36.25333333,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Elizabeth</name>
+		<Point>
+			<coordinates>-76.17305555999999,36.25916667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Northeastern Regional</name>
+		<Point>
+			<coordinates>-76.56972222,36.02861111,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Craven County Regional</name>
+		<Point>
+			<coordinates>-77.0425,35.07361111,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Fayetteville Regional/Grannis Field</name>
+		<Point>
+			<coordinates>-78.88027778,34.99138889,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Simmons AFB</name>
+		<Point>
+			<coordinates>-78.935,35.13194444,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Seymour Johnson AFB</name>
+		<Point>
+			<coordinates>-77.95999999999999,35.33972222,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Piedmont Triad International</name>
+		<Point>
+			<coordinates>-79.94277778,36.09194444,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mackall AAF</name>
+		<Point>
+			<coordinates>-79.49777778000001,35.03638889,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hickory Regional</name>
+		<Point>
+			<coordinates>-81.39,35.74055556,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Billy Mitchell</name>
+		<Point>
+			<coordinates>-75.62138889000001,35.23111111,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Horace Williams</name>
+		<Point>
+			<coordinates>-79.06583333,35.935,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Wilkes County</name>
+		<Point>
+			<coordinates>-81.09833333,36.22277778,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Wilmington International</name>
+		<Point>
+			<coordinates>-77.90388889,34.26694444,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Smith Reynolds</name>
+		<Point>
+			<coordinates>-80.22555556,36.13527778,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kinston Regional Jetport at Stallings Field</name>
+		<Point>
+			<coordinates>-77.61666667,35.32666667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Concord Regional</name>
+		<Point>
+			<coordinates>-80.70972222,35.38527778,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lumberton Municipal</name>
+		<Point>
+			<coordinates>-79.05777778,34.61111111,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Dare County Regional</name>
+		<Point>
+			<coordinates>-75.69555556,35.91888889,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Beaufort/Morehead</name>
+		<Point>
+			<coordinates>-76.66027778,34.73416667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Morganton Lenoir</name>
+		<Point>
+			<coordinates>-81.61666667,35.83333333,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Laurinburg-Maxton</name>
+		<Point>
+			<coordinates>-79.36611111000001,34.79166667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Gastonia Municipal</name>
+		<Point>
+			<coordinates>-81.14972222,35.20277778,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Johnston County</name>
+		<Point>
+			<coordinates>-78.39027778000001,35.54083333,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Shelby Municipal</name>
+		<Point>
+			<coordinates>-81.60083333,35.25555556,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Currituck County Regional</name>
+		<Point>
+			<coordinates>-76.01611111,36.39888889,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Duplin County</name>
+		<Point>
+			<coordinates>-77.98166667,35,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Cherry Point MCAS</name>
+		<Point>
+			<coordinates>-76.88138889,34.9025,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Albert J Ellis</name>
+		<Point>
+			<coordinates>-77.61166667000001,34.83027778,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Warren Field</name>
+		<Point>
+			<coordinates>-77.05083333,35.56888889,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Pitt Greenville</name>
+		<Point>
+			<coordinates>-77.38527778,35.63333333,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Pope AFB</name>
+		<Point>
+			<coordinates>-79.01472222,35.17083333,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Raleigh-Durham International</name>
+		<Point>
+			<coordinates>-78.78194444,35.87527778,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lincoln County</name>
+		<Point>
+			<coordinates>-81.16083333,35.48361111,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Rocky Mount-Wilson Regional</name>
+		<Point>
+			<coordinates>-77.89055556,35.85444444,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Halifax County</name>
+		<Point>
+			<coordinates>-77.70944444,36.43944444,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Moore County</name>
+		<Point>
+			<coordinates>-79.38888889,35.2375,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Rowan County</name>
+		<Point>
+			<coordinates>-80.52027778,35.64583333,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Statesville Municipal</name>
+		<Point>
+			<coordinates>-80.95527778,35.76305556,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Person County</name>
+		<Point>
+			<coordinates>-78.98416666999999,36.285,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Stanly County</name>
+		<Point>
+			<coordinates>-80.15083333,35.41666667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Henderson Oxford</name>
+		<Point>
+			<coordinates>-78.52916667,36.36166667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Michael J. Smith Field</name>
+		<Point>
+			<coordinates>-76.66055556000001,34.73361111,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Clinton Sampson County</name>
+		<Point>
+			<coordinates>-78.36555556,34.975,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Burlington Alamance Regional</name>
+		<Point>
+			<coordinates>-79.47499999999999,36.04861111,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Richmond County</name>
+		<Point>
+			<coordinates>-79.75972222,34.89138889,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Charlotte Monroe Executive</name>
+		<Point>
+			<coordinates>-80.62194443999999,35.0175,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Macon County</name>
+		<Point>
+			<coordinates>-83.42,35.22222222,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Raleigh Exec Jetport at Sanford Lee County</name>
+		<Point>
+			<coordinates>-79.10138889,35.5825,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Columbus County Municipal</name>
+		<Point>
+			<coordinates>-78.715,34.27277778,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Siler City Municipal</name>
+		<Point>
+			<coordinates>-79.50416667,35.70416667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Tri County</name>
+		<Point>
+			<coordinates>-77.17083332999999,36.2975,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Cape Fear Regional Jetport Howie Franklin</name>
+		<Point>
+			<coordinates>-78.07333333,33.93083333,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Asheboro Regional</name>
+		<Point>
+			<coordinates>-79.89472222000001,35.65444444,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hendersonville Airport</name>
+		<Point>
+			<coordinates>-82.43305556,35.30749999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Western Carolina Regional</name>
+		<Point>
+			<coordinates>-83.86305556000001,35.19527778,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.08138889,35.02388889,0 -79.49777778000001,35.03638889,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.08138889,35.02388889,0 -80.70972222,35.38527778,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.08138889,35.02388889,0 -79.36611111000001,34.79166667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.08138889,35.02388889,0 -79.38888889,35.2375,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.08138889,35.02388889,0 -80.52027778,35.64583333,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.08138889,35.02388889,0 -80.15083333,35.41666667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.08138889,35.02388889,0 -79.75972222,34.89138889,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.08138889,35.02388889,0 -80.62194443999999,35.0175,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.08138889,35.02388889,0 -79.89472222000001,35.65444444,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-82.54111111,35.435,0 -82.43305556,35.30749999,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.93583332999999,35.21916667,0 -81.39,35.74055556,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.93583332999999,35.21916667,0 -80.70972222,35.38527778,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.93583332999999,35.21916667,0 -81.14972222,35.20277778,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.93583332999999,35.21916667,0 -81.60083333,35.25555556,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.93583332999999,35.21916667,0 -81.16083333,35.48361111,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.93583332999999,35.21916667,0 -80.52027778,35.64583333,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.93583332999999,35.21916667,0 -80.95527778,35.76305556,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.93583332999999,35.21916667,0 -80.15083333,35.41666667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.93583332999999,35.21916667,0 -80.62194443999999,35.0175,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-75.78861111000001,36.25333333,0 -76.17305555999999,36.25916667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-75.78861111000001,36.25333333,0 -76.56972222,36.02861111,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-75.78861111000001,36.25333333,0 -75.69555556,35.91888889,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-75.78861111000001,36.25333333,0 -76.01611111,36.39888889,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-76.17305555999999,36.25916667,0 -76.56972222,36.02861111,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-76.17305555999999,36.25916667,0 -75.69555556,35.91888889,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-76.17305555999999,36.25916667,0 -76.01611111,36.39888889,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-76.56972222,36.02861111,0 -75.69555556,35.91888889,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-76.56972222,36.02861111,0 -76.01611111,36.39888889,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-76.56972222,36.02861111,0 -77.05083333,35.56888889,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-76.56972222,36.02861111,0 -77.17083332999999,36.2975,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.0425,35.07361111,0 -77.61666667,35.32666667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.0425,35.07361111,0 -76.66027778,34.73416667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.0425,35.07361111,0 -76.88138889,34.9025,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.0425,35.07361111,0 -77.61166667000001,34.83027778,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.0425,35.07361111,0 -77.05083333,35.56888889,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.0425,35.07361111,0 -77.38527778,35.63333333,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.0425,35.07361111,0 -76.66055556000001,34.73361111,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.88027778,34.99138889,0 -78.935,35.13194444,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.88027778,34.99138889,0 -79.49777778000001,35.03638889,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.88027778,34.99138889,0 -79.05777778,34.61111111,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.88027778,34.99138889,0 -79.36611111000001,34.79166667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.88027778,34.99138889,0 -78.39027778000001,35.54083333,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.88027778,34.99138889,0 -79.01472222,35.17083333,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.88027778,34.99138889,0 -79.38888889,35.2375,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.88027778,34.99138889,0 -78.36555556,34.975,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.88027778,34.99138889,0 -79.10138889,35.5825,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.935,35.13194444,0 -79.49777778000001,35.03638889,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.935,35.13194444,0 -79.05777778,34.61111111,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.935,35.13194444,0 -79.36611111000001,34.79166667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.935,35.13194444,0 -78.39027778000001,35.54083333,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.935,35.13194444,0 -79.01472222,35.17083333,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.935,35.13194444,0 -79.38888889,35.2375,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.935,35.13194444,0 -78.36555556,34.975,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.935,35.13194444,0 -79.75972222,34.89138889,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.935,35.13194444,0 -79.10138889,35.5825,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.95999999999999,35.33972222,0 -77.61666667,35.32666667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.95999999999999,35.33972222,0 -78.39027778000001,35.54083333,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.95999999999999,35.33972222,0 -77.98166667,35,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.95999999999999,35.33972222,0 -77.61166667000001,34.83027778,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.95999999999999,35.33972222,0 -77.38527778,35.63333333,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.95999999999999,35.33972222,0 -77.89055556,35.85444444,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.95999999999999,35.33972222,0 -78.36555556,34.975,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.94277778,36.09194444,0 -80.22555556,36.13527778,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.94277778,36.09194444,0 -80.52027778,35.64583333,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.94277778,36.09194444,0 -80.15083333,35.41666667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.94277778,36.09194444,0 -79.47499999999999,36.04861111,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.94277778,36.09194444,0 -79.50416667,35.70416667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.94277778,36.09194444,0 -79.89472222000001,35.65444444,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.49777778000001,35.03638889,0 -79.05777778,34.61111111,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.49777778000001,35.03638889,0 -79.36611111000001,34.79166667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.49777778000001,35.03638889,0 -79.01472222,35.17083333,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.49777778000001,35.03638889,0 -79.38888889,35.2375,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.49777778000001,35.03638889,0 -80.15083333,35.41666667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.49777778000001,35.03638889,0 -79.75972222,34.89138889,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.49777778000001,35.03638889,0 -79.10138889,35.5825,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.49777778000001,35.03638889,0 -79.50416667,35.70416667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.49777778000001,35.03638889,0 -79.89472222000001,35.65444444,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-81.39,35.74055556,0 -81.09833333,36.22277778,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-81.39,35.74055556,0 -80.70972222,35.38527778,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-81.39,35.74055556,0 -81.61666667,35.83333333,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-81.39,35.74055556,0 -81.14972222,35.20277778,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-81.39,35.74055556,0 -81.60083333,35.25555556,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-81.39,35.74055556,0 -81.16083333,35.48361111,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-81.39,35.74055556,0 -80.52027778,35.64583333,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-81.39,35.74055556,0 -80.95527778,35.76305556,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-75.62138889000001,35.23111111,0 -75.69555556,35.91888889,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.06583333,35.935,0 -78.39027778000001,35.54083333,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.06583333,35.935,0 -78.78194444,35.87527778,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.06583333,35.935,0 -78.98416666999999,36.285,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.06583333,35.935,0 -78.52916667,36.36166667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.06583333,35.935,0 -79.47499999999999,36.04861111,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.06583333,35.935,0 -79.10138889,35.5825,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.06583333,35.935,0 -79.50416667,35.70416667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-81.09833333,36.22277778,0 -80.22555556,36.13527778,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-81.09833333,36.22277778,0 -81.61666667,35.83333333,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-81.09833333,36.22277778,0 -80.95527778,35.76305556,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.90388889,34.26694444,0 -77.61166667000001,34.83027778,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.90388889,34.26694444,0 -78.715,34.27277778,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.90388889,34.26694444,0 -78.07333333,33.93083333,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.22555556,36.13527778,0 -80.52027778,35.64583333,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.22555556,36.13527778,0 -80.95527778,35.76305556,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.22555556,36.13527778,0 -80.15083333,35.41666667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.22555556,36.13527778,0 -79.47499999999999,36.04861111,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.22555556,36.13527778,0 -79.89472222000001,35.65444444,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.61666667,35.32666667,0 -78.39027778000001,35.54083333,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.61666667,35.32666667,0 -77.98166667,35,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.61666667,35.32666667,0 -77.61166667000001,34.83027778,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.61666667,35.32666667,0 -77.05083333,35.56888889,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.61666667,35.32666667,0 -77.38527778,35.63333333,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.61666667,35.32666667,0 -77.89055556,35.85444444,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.61666667,35.32666667,0 -78.36555556,34.975,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.70972222,35.38527778,0 -81.14972222,35.20277778,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.70972222,35.38527778,0 -81.16083333,35.48361111,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.70972222,35.38527778,0 -80.52027778,35.64583333,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.70972222,35.38527778,0 -80.95527778,35.76305556,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.70972222,35.38527778,0 -80.15083333,35.41666667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.70972222,35.38527778,0 -80.62194443999999,35.0175,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.70972222,35.38527778,0 -79.89472222000001,35.65444444,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.05777778,34.61111111,0 -79.36611111000001,34.79166667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.05777778,34.61111111,0 -79.01472222,35.17083333,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.05777778,34.61111111,0 -79.38888889,35.2375,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.05777778,34.61111111,0 -78.36555556,34.975,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.05777778,34.61111111,0 -79.75972222,34.89138889,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.05777778,34.61111111,0 -78.715,34.27277778,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-75.69555556,35.91888889,0 -76.01611111,36.39888889,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-76.66027778,34.73416667,0 -76.88138889,34.9025,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-76.66027778,34.73416667,0 -76.66055556000001,34.73361111,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-81.61666667,35.83333333,0 -81.60083333,35.25555556,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-81.61666667,35.83333333,0 -81.16083333,35.48361111,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-81.61666667,35.83333333,0 -80.95527778,35.76305556,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.36611111000001,34.79166667,0 -79.01472222,35.17083333,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.36611111000001,34.79166667,0 -79.38888889,35.2375,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.36611111000001,34.79166667,0 -79.75972222,34.89138889,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-81.14972222,35.20277778,0 -81.60083333,35.25555556,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-81.14972222,35.20277778,0 -81.16083333,35.48361111,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-81.14972222,35.20277778,0 -80.52027778,35.64583333,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-81.14972222,35.20277778,0 -80.95527778,35.76305556,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-81.14972222,35.20277778,0 -80.62194443999999,35.0175,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.39027778000001,35.54083333,0 -77.98166667,35,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.39027778000001,35.54083333,0 -79.01472222,35.17083333,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.39027778000001,35.54083333,0 -78.78194444,35.87527778,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.39027778000001,35.54083333,0 -77.89055556,35.85444444,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.39027778000001,35.54083333,0 -78.36555556,34.975,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.39027778000001,35.54083333,0 -79.10138889,35.5825,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-81.60083333,35.25555556,0 -81.16083333,35.48361111,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-81.60083333,35.25555556,0 -82.43305556,35.30749999,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.98166667,35,0 -77.61166667000001,34.83027778,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.98166667,35,0 -78.36555556,34.975,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-76.88138889,34.9025,0 -77.61166667000001,34.83027778,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-76.88138889,34.9025,0 -77.05083333,35.56888889,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-76.88138889,34.9025,0 -76.66055556000001,34.73361111,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.61166667000001,34.83027778,0 -78.36555556,34.975,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.05083333,35.56888889,0 -77.38527778,35.63333333,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.38527778,35.63333333,0 -77.89055556,35.85444444,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.38527778,35.63333333,0 -77.17083332999999,36.2975,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.01472222,35.17083333,0 -79.38888889,35.2375,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.01472222,35.17083333,0 -78.36555556,34.975,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.01472222,35.17083333,0 -79.75972222,34.89138889,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.01472222,35.17083333,0 -79.10138889,35.5825,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.01472222,35.17083333,0 -79.50416667,35.70416667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.78194444,35.87527778,0 -77.89055556,35.85444444,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.78194444,35.87527778,0 -78.98416666999999,36.285,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.78194444,35.87527778,0 -78.52916667,36.36166667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.78194444,35.87527778,0 -79.47499999999999,36.04861111,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.78194444,35.87527778,0 -79.10138889,35.5825,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.78194444,35.87527778,0 -79.50416667,35.70416667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-81.16083333,35.48361111,0 -80.52027778,35.64583333,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-81.16083333,35.48361111,0 -80.95527778,35.76305556,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-81.16083333,35.48361111,0 -80.62194443999999,35.0175,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.89055556,35.85444444,0 -77.70944444,36.43944444,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.89055556,35.85444444,0 -78.52916667,36.36166667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.70944444,36.43944444,0 -78.52916667,36.36166667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.70944444,36.43944444,0 -77.17083332999999,36.2975,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.38888889,35.2375,0 -80.15083333,35.41666667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.38888889,35.2375,0 -79.75972222,34.89138889,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.38888889,35.2375,0 -79.10138889,35.5825,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.38888889,35.2375,0 -79.50416667,35.70416667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.38888889,35.2375,0 -79.89472222000001,35.65444444,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.52027778,35.64583333,0 -80.95527778,35.76305556,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.52027778,35.64583333,0 -80.15083333,35.41666667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.52027778,35.64583333,0 -80.62194443999999,35.0175,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.52027778,35.64583333,0 -79.89472222000001,35.65444444,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.98416666999999,36.285,0 -78.52916667,36.36166667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.98416666999999,36.285,0 -79.47499999999999,36.04861111,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.98416666999999,36.285,0 -79.10138889,35.5825,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.98416666999999,36.285,0 -79.50416667,35.70416667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.15083333,35.41666667,0 -79.75972222,34.89138889,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.15083333,35.41666667,0 -80.62194443999999,35.0175,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.15083333,35.41666667,0 -79.50416667,35.70416667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.15083333,35.41666667,0 -79.89472222000001,35.65444444,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.47499999999999,36.04861111,0 -79.10138889,35.5825,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.47499999999999,36.04861111,0 -79.50416667,35.70416667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.47499999999999,36.04861111,0 -79.89472222000001,35.65444444,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.75972222,34.89138889,0 -80.62194443999999,35.0175,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-83.42,35.22222222,0 -83.86305556000001,35.19527778,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.10138889,35.5825,0 -79.50416667,35.70416667,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.10138889,35.5825,0 -79.89472222000001,35.65444444,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.715,34.27277778,0 -78.07333333,33.93083333,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#blackLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-79.50416667,35.70416667,0 -79.89472222000001,35.65444444,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
 </Document>
 </kml>
