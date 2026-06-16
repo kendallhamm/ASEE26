@@ -1,7 +1,0 @@
-Prompt 1 (origin-destination distance matrix creation):
-
-Using the attached spreadsheet build me an origin destination distance matrix for each of the airports listed. Name them their "DISPLAY_AIRPORT_NAME" and use the "LATITUDE" and "LONGITUDE" columns to compute distance between each. Report distance in miles NOT nautical miles. Create a .csv with your results. Include ALL data. No shortcuts and no premature results. Make any distances that are <= 50 miles green.
-
-Prompt 2 (.kml file creation):
-
-Now, using that ncairports.csv and the origin-destination distance matrix you just made, build me a .kml file that has: - each of the airport locations plotted - each acceptable link, given a max range of 50 miles between points. Draw those links size 5 and color black. No shortcuts- build the entire KML!
